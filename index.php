@@ -1,4 +1,22 @@
 <?php
-echo 'test!';
-echo 'TEST!!!';
+require 'routing.php';
+
+class authentication
+{
+
+}
+
+class game
+{
+
+}
+
+class round extends game
+{
+
+}
+
+
 ?>
+
+
